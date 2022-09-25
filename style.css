@@ -1,0 +1,92 @@
+.logoImage img {
+    width: 50px;
+    margin-bottom: -15px;
+}
+.top {
+    margin: 0 45px 0 80px;
+}
+.topp{
+    background-color: #e2f3fd;
+}
+
+
+/* ========================== */
+
+
+.myform{
+    width: 60%;
+}
+/* .myformp{
+    margin-left: 50px;
+} */
+
+/* ==================== */
+/* breadcrumb start */
+
+.breadcrumbParent{
+    margin-top: 50px;
+}
+.breadcrumb{
+    background-color: #eaeced;
+    padding: 15px;
+}
+.breadcrumb-item a{
+    text-decoration: none;
+}
+
+/* breadcrumb end */
+
+.image img{
+    height: 400px;
+}
+/* =============== */
+.a-lert{
+    background-color: #d1eed8;
+    color: #005025;
+}
+.well{
+    font-weight: 600;
+    margin-bottom: -18px;
+}
+.wellp{
+    margin-bottom: -15px;
+}
+
+
+/* =============== */
+
+
+.dion-color {
+    color: #0099fd;
+    font-weight: 700;
+    background-color: #f7f7f6;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.285);
+    margin-bottom: 2px;
+    font-size: 18px;
+}
+
+
+
+/* ====================== */
+.contains{
+    width: 900px;
+    margin: auto;
+}
+
+
+/* ======================= */
+.p-nation {
+    padding-left: 340px;
+}
+/* footer  */
+.copy{
+    color: #fff;
+    background-color: #00a3b4;
+}
+
+/* ============example tooltip============== */
+
+.custom-tooltip {
+    --bs-tooltip-bg: var(--bs-primary);
+  }
+/* ======================= */
